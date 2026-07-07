@@ -2,6 +2,7 @@
 
 Auto-generated 2x/day. Newest at top.
 
+- [2026-07-07 08-morning](./2026-07-07-08-morning.md)
 - [2026-07-06 20-evening](./2026-07-06-20-evening.md)
 - [2026-07-05 20-evening](./2026-07-05-20-evening.md)
 - [2026-07-05 08-morning](./2026-07-05-08-morning.md)
